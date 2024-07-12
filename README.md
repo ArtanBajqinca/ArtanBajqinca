@@ -1,3 +1,1 @@
-![LinkedInCover](https://github.com/ArtanBajqinca/ArtanBajqinca/assets/72929040/7b17f71d-4343-4478-82a6-3f0b9318c6cf)
-
-
+![Systemdeveloper @Verendus](https://github.com/user-attachments/assets/55409c10-ce04-4041-9232-ee319e4c8499)
