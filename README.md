@@ -1,1 +1,1 @@
-![Systemdeveloper @Verendus](https://github.com/user-attachments/assets/55409c10-ce04-4041-9232-ee319e4c8499)
+![github_cover](https://github.com/user-attachments/assets/1babfed4-fb57-4923-bac4-892d8ff92cf0)
