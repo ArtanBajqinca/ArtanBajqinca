@@ -1,4 +1,4 @@
-![linkedin_cover](https://github.com/user-attachments/assets/ab97a0b4-de79-425e-b62c-b85a69301f8a)
+![Untitled-1](https://github.com/user-attachments/assets/077b33db-8c17-4da8-8c4e-0d3bba5f8ea5)
 
 <h2 align="center">I work with</h2>
 
