@@ -1,4 +1,4 @@
-![Untitled-1](https://github.com/user-attachments/assets/077b33db-8c17-4da8-8c4e-0d3bba5f8ea5)
+![Untitled-1](https://github.com/user-attachments/assets/6e57ad15-56ed-4ad9-8cd2-bcd61cc0e04b)
 
 <h2 align="center">I work with</h2>
 
