@@ -2,7 +2,7 @@
 
 ---
 
-<h3>DEVELOPMENT — Native</h3>
+<h3>Native development</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3>DEVELOPMENT — Cross-Platform</h3>
+<h3>Cross-Platform development</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
