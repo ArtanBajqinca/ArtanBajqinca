@@ -19,5 +19,3 @@
     <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=6" />
   </a>
 </p>
-
----
