@@ -2,8 +2,16 @@
 
 <h2 align="center">🛠️ I work with</h2>
 
+### 💻 Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,swift,kotlin,js,ts,nextjs,storybook,nodejs,docker,vscode,tailwind,figma,ps,ai&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,swift,kotlin,js,ts,nextjs,storybook,nodejs,docker,vscode,tailwind&perline=6" />
+  </a>
+</p>
+
+### 🎨 Design
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=6" />
   </a>
 </p>
