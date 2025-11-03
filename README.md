@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<br/>
-
 <h3 align="center">UI/UX</h3>
 
 <p align="center">
