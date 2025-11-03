@@ -2,16 +2,24 @@
 
 <h2 align="center">🛠️ I work with</h2>
 
-### 💻 Development
+---
+
+<h3 align="center">Development</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,swift,kotlin,js,ts,nextjs,storybook,nodejs,docker,vscode,tailwind&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,swift,kotlin,js,ts,nextjs,nodejs,docker,vscode,tailwind&perline=6" />
   </a>
 </p>
 
-### 🎨 Design
+<br/>
+
+<h3 align="center">UI/UX</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=6" />
   </a>
 </p>
+
+---
