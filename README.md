@@ -1,8 +1,6 @@
 ![Untitled-1](https://github.com/user-attachments/assets/6e57ad15-56ed-4ad9-8cd2-bcd61cc0e04b)
 
-<h2 align="center">I work with</h2>
-
-<h3 align="center">Development</h3>
+<h3 align="center">DEVELOPMENT</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
